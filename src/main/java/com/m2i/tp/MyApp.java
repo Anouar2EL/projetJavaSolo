@@ -7,7 +7,7 @@ public class MyApp {
 		
 		System.out.println("hello world");
 		System.out.println("Bonjour le monde");
-		System.out.println("devA is the best !!!");
+		System.out.println("devA is the best !!");
 
 	}
 
