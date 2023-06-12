@@ -6,7 +6,7 @@ public class MyApp {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hello world");
-		System.out.println("Bonjour le monde");
+		System.out.println("devB is the best !!!");
 		
 
 	}
